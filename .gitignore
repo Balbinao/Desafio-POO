@@ -1,0 +1,35 @@
+# Arquivos compilados
+*.class
+*.jar
+*.war
+*.ear
+
+# Diretórios de build
+/bin/
+/build/
+/out/
+
+# Logs e temporários
+*.log
+*.tmp
+*.bak
+
+# IDEs
+# Eclipse
+.settings/
+*.classpath
+*.project
+
+# IntelliJ IDEA
+/.idea/
+/*.iml
+/out/
+
+# NetBeans
+/nbproject/private/
+/build/
+/dist/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
